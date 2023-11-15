@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Crimson+Text:ital,wght@0,600;1,400;1,700&family=Kdam+Thmor+Pro&display=swap');
+
+*{
+    box-sizing: border-box;
+}
+html{
+    font-family: 'Anton', sans-serif;
+    font-family: 'Crimson Text', serif;
+}
+h1, h2, h3, p ,ul{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+ul{
+    list-style: none;
+    padding-left: 0;
+}
+img{
+    display: flex;
+    width: 100%;
+}
+button{
+    cursor: pointer;
+    font-family: inherit;
+}
+
